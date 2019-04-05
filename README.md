@@ -22,9 +22,9 @@ A Student's T test is used to determine if two datasets are different from each
 
 other and how extensively
 
-Research Questions
+**Research Questions**
 
-1)Laughter Frequency
+* Laughter Frequency
 
  Research Hypothesis: Women laugh more than men
 
@@ -39,7 +39,9 @@ As evident from the results, the large value of Chi-Squared suggests a significa
 
 One tailed test was used due to the fact that research question stated which sex laughed more than the other, which requires analysis in only one direction for the data.
 
-Filler Frequency
+**Conclusion: Women laugh more than men**
+
+* Filler Frequency
 
  Research Hypothesis: Female subjects use more filler than male subjects.
 
@@ -55,7 +57,9 @@ One tailed test was used due to the fact that research question stated which sex
 
 Note: The degrees of freedom for Laughter and Filler frequency is 1.
 
-Filler Duration
+**Conclusion: Women do not use more filler in conversations than men**
+
+* Filler Duration
 
  Research Hypothesis: Do the Filler durations of male and female subjects differ?
 
@@ -70,7 +74,9 @@ The arrays used to obtain these results are the filler data points for men, and 
 A two tailed test is used in this scenario, since the difference can be positive or negative, which demands that the data be analysed in both directions. This results in the confidence level being 0.05/2=0.025
 Since the p-value obtained is greater than our confidence level, therefore the Null Hypothesis is accepted , filler durations for men and women do not differ.
 
-Laughter Duration
+**Conclusion: Filler durations of men and women do not differ**
+
+* Laughter Duration
 
  Research Hypothesis: Do the Laughter durations of male and female subjects differ?
 
@@ -85,6 +91,7 @@ The arrays used to obtain these results are the laughter data points for men, an
 A two tailed test is used in this scenario, since the difference can be positive or negative, which demands that the data be analysed in both directions. This results in the confidence level being 0.05/2=0.025
 Since the p-value obtained is much less than our confidence level, therefore the Null Hypothesis is rejected , laughter durations for men and women differ.
 
+**Conclusion: Laugh durations of men and women differ**
 
 References
 
